@@ -7,7 +7,7 @@ authors = [
 ]
 dependencies = [
     "pythonmonkey==1.1.0",
-    "pydantic==2.10.6",
+    "pydantic>=2.10.6",
 ]
 readme = "README.md"
 requires-python = ">= 3.10"
